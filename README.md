@@ -128,6 +128,31 @@ It will save the predictions into a file called `predictions.json`.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Example Screenshot](images/PriceForcasting_example.png)
 ---
 
