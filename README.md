@@ -123,6 +123,8 @@ It will save the predictions into a file called `predictions.json`.
 - **Requests** (for client testing)  
 
 ---
+## Screenshots
+!![UI Screenshot](images/ui_screenshot.png)
 
 ## 🔮 Future Improvements
 - Add support for multiple commodities at once.  
