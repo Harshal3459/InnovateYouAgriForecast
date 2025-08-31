@@ -124,7 +124,7 @@ It will save the predictions into a file called `predictions.json`.
 
 ---
 ## Screenshots
-!![UI Screenshot](images/ui_screenshot.png)
+!![UI Screenshot](images/PriceForcasting_example.png)
 
 ## 🔮 Future Improvements
 - Add support for multiple commodities at once.  
